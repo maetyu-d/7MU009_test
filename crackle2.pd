@@ -1,0 +1,7 @@
+#N canvas 0 23 450 300 10;
+#X obj 196 74 noise~;
+#X obj 197 198 dac~;
+#X obj 196 125 expr~ pow($v1 \, 80000);
+#X connect 0 0 2 0;
+#X connect 2 0 1 0;
+#X connect 2 0 1 1;
