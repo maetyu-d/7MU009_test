@@ -11,3 +11,5 @@ The following is a list:
 One way to add a link is an [inline-style link](https://www.google.com).
 
 Or leave it empty and use the link text itself, like this: <https://www.google.com>.
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
