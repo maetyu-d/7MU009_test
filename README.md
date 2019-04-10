@@ -42,3 +42,17 @@ Blockquotes are very handy in email to emulate reply text. This line is part of 
 Quote break.
 
 > More quote if needed.
+
+Three or more of the following will create horizontal dividers:
+
+---
+
+Hyphens
+
+***
+
+Asterisks
+
+___
+
+Underscores
