@@ -18,8 +18,9 @@ This shows how to add an image:
 
 Blocks of code are fenced by lines with three back-ticks ``` like this:
 
-```codeblock
-I am code;
-yes I am;
-yee haaa
+```code
+line1;
+line2;
+line3;
+line9999999999.
 ```
