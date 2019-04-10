@@ -10,4 +10,4 @@ The following is a list:
 
 One way to add a link is an [inline-style link](https://www.google.com).
 
-Another is a [reference-style link][Arbitrary case-insensitive reference text]
+Or leave it empty and use the link text itself, like this [](https://www.google.com).
