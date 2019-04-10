@@ -2,6 +2,10 @@
 
 ## Heading2
 
+*italics*
+
+**bold**
+
 The following is a list:
 
 - item1
