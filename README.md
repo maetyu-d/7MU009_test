@@ -2,9 +2,9 @@
 
 ## Heading2
 
-*italics*
+*Italics* are created by putting * at the start and * at the end (no spaces) of the word or sentence/part of sentence to italicise.
 
-**bold**
+** at the start and ** and end of the word/sentence/part sentences creates **bold** type.
 
 The following is a list:
 
