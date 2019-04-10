@@ -18,7 +18,8 @@ This shows how to add an image:
 
 Blocks of code are fenced by lines with three back-ticks ``` like this:
 
-```code
-var s = "code syntax highlighting";
-alert(s);
+```codeblock
+I am code;
+yes I am;
+yee haaa
 ```
